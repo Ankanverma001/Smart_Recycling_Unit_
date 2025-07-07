@@ -45,7 +45,7 @@ An IoT-powered smart recycling system that automates waste segregation into dry 
 ## 💻 Arduino Code
 
 Upload this code to your Arduino Nano:
-[Click to view `Code_SRU.ino`](Code_SRU.ino)
+[Click to view `code_SRU.ino`](code_SRU.ino)
 
 ```cpp
 // Basic version – can be extended with IoT (ESP32, GSM, etc.)
